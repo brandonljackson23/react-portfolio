@@ -14,9 +14,9 @@ function About() {
                 overflow: "visible",
                 boxShadow:
                   "0 8px 24px 0 rgba(0, 0, 0, 0.5), 0 8px 24px 0 rgba(0, 0, 0, 0.5)",
-                height: "200px",
-                width: "200px",
-                marginTop: "100px",
+                height: "250px",
+                width: "250px",
+                marginTop: "10px",
                 border: "solid 3px black",
               }}
             />

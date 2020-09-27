@@ -12,6 +12,9 @@ function Footer() {
       name: "fab fa-linkedin",
       link: "www.linkedin.com/in/brandonljackson23"
     },
+    {
+      name: "fab fa-envelope"
+    },
   ]
 
   return (
