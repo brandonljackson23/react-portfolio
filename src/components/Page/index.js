@@ -1,12 +1,12 @@
 import React from 'react';
-import HomeContent from '../HomeContent';
+import PageContent from '../PageContent';
 import About from '../About';
 import Portfolio from '../Portfolio';
 import Contact from '../Contact';
 import Resume from '../Resume';
 import { capitalizeFirstLetter } from '../../utils/helpers';
 
-function Home({ currentPage }) {
+function Page({ currentPage }) {
 
   const renderPage = () => {
     switch (currentPage.name) {
@@ -26,9 +26,8 @@ function Home({ currentPage }) {
   return (
     <section>
       <h2>{capitalizeFirstLetter(currentPage.name)}</h2>
-      <HomeContent>{renderPage()}</HomeContent>
+      <PageContent>{renderPage()}</PageContent>
     </section>
   );
 }
-
-export default Home;
+export default Page;

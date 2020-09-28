@@ -33,7 +33,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: 0.1em;
-  background: var(--light);
+  background: var(--alpha);
   color: var(--darker);
   font-family: 'Open Sans', sans-serif;
 }
@@ -215,7 +215,7 @@ footer {
 }
 
 footer a {
-  color: var(--light);
+  color: var(--darker);
   opacity: .5;
   margin: 10px 20px;
   transition: all .3s ease-in-out;
@@ -354,7 +354,6 @@ textarea {
 .project-text a:hover {
   color: var(--darker);
 }
-
 
 .navActive {
   color: var(--secondary);

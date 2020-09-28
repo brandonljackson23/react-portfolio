@@ -1,6 +1,6 @@
 import React from 'react';
 
-const HomeContent = (props) => {
+const PageContent = (props) => {
 
   return (
     <div>
@@ -9,4 +9,4 @@ const HomeContent = (props) => {
   );
 };
 
-export default HomeContent;
+export default PageContent;

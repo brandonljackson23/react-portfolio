@@ -14,8 +14,8 @@ function Portfolio() {
     {
       name: 'death-roll',
       description: 'Front End API Project',
-      link: "https://brandonljackson23.github.io/death-roll/",
-      repo: "https://github.com/brandonljackson23/death-roll"
+      link: "https://brandonljackson23.github.io/p1-death-roll/",
+      repo: "https://github.com/brandonljackson23/p1-death-roll"
     },
     {
         name: 'budget-tracker',
@@ -24,22 +24,22 @@ function Portfolio() {
         repo: "https://github.com/brandonljackson23/budget-tracker"
     },
     {
-        name: 'Tech-Blog',
+        name: 'tech-blog',
         description: 'MySQL/Sequelize',
         link: "https://thawing-harbor-96047.herokuapp.com/",
         repo: "https://github.com/brandonljackson23/tech-blog"
     },
     {
-      name: 'weather-app',
+      name: 'weather-dashboard',
       description: 'HTML/CSS/JS/API',
-      link: "https://brandonljackson23.github.io/weather-dashboard/",
-      repo: "https://github.com/brandonljackson23/weather-dashboard"
+      link: "https://brandonljackson23.github.io/weather-app/",
+      repo: "https://github.com/brandonljackson23/weather-app"
     },
     {
       name: 'js-quiz',
       description: 'HTML/CSS/JS',
-      link: "https://brandonljackson23.github.io/coding-quiz/",
-      repo: "https://github.com/brandonljackson23/coding-quiz"
+      link: "https://brandonljackson23.github.io/js-quiz/",
+      repo: "https://github.com/brandonljackson23/js-quiz"
     },
   ]);
 
