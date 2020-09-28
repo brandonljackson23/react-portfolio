@@ -1,68 +1,38 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# REACT PORTFOLIO - BRANODN JACKSON
 
-## Available Scripts
+## **PROJECT DESCRIPTION**
+>This app is a portfolio of my work as a full-stack developer.  It is intended to showcase my skills through my completed work to potential employers.  It is a single-page web application built using MERN.  It features a top navigation with links that dynamically render content on the page.
 
-In the project directory, you can run:
+## **TABLE OF CONTENTS** 
+[1. PROJECT DESCRIPTION](#PROJECT-DESCRIPTION)  
+[2. TABLE OF CONTENTS](#TABLE-OF-CONTENTS)  
+[4. APPLICATION LINKS](#APPLICATION-LINKS)  
+[5. CONTRIBUTORS](#CONTRIBUTORS)  
+[6. FUNCTIONALITY](#FUNCTIONALITY)   
 
-### `npm start`
+---
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## **APPLICATION LINKS**
+> [Live Application](https://brandonljackson23.github.io/react-portfolio/)  
+> [GitHub Repository](https://github.com/brandonljackson23/react-portfolio)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## **CONTRIBUTORS**  
+> Brandon Jackson | <brandonljackson23@gmail.com> | [github](https://github.com/brandonljackson23)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## **FUNCTIONALITY**
+1. When a user visits the site he is presented with the About Me section which displays my picture a short bio about myself.
 
-### `npm run build`
+![](/src/assets/images/about-me.PNG)  
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. When a user clicks on the Portfolio link in the top navigation pane, he is presented with images that summarize my past development projects. Upon hovering over an image the user is presented with the name of the project which acts as a link to the live application, a GitHub logo which acts as a link to the Github repository, and a short description of the programming languages used to complete the project. 
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![](/src/assets/images/contact.PNG) 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. When a user clicks on the Contact link in the top navigation pane, he is presented with a form asking for his name, email and a message which allows him to contact me.
 
-### `npm run eject`
+![](/src/assets/images/portfolio.PNG) 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+4. When a user clicks on the Resume link in the top navigation pane, he is presented with a button that allows him to download my resume and a list of proficiencies.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![](/src/assets/images/resume.PNG) 
