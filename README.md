@@ -1,4 +1,4 @@
-# REACT PORTFOLIO - BRANODN JACKSON
+# REACT PORTFOLIO - BRANDON JACKSON
 
 ## **PROJECT DESCRIPTION**
 >This app is a portfolio of my work as a full-stack developer.  It is intended to showcase my skills through my completed work to potential employers.  It is a single-page web application built using MERN.  It features a top navigation with links that dynamically render content on the page.
