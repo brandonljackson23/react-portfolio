@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec6e3a4b5d822ad5b2934a88a4f27b88",
+    "revision": "b25eee912a564e163d01560fa6e86007",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "306955287541ea559348",
+    "revision": "29d64944bfacb9cb69ea",
     "url": "/react-portfolio/static/css/main.5ebc4642.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.561b7ba5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "306955287541ea559348",
-    "url": "/react-portfolio/static/js/main.5535124f.chunk.js"
+    "revision": "29d64944bfacb9cb69ea",
+    "url": "/react-portfolio/static/js/main.ce4461f9.chunk.js"
   },
   {
     "revision": "d2973fa5f1f6dd99cb4f",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "18f6c6d81d4be340b3d86b03a1b86014",
     "url": "/react-portfolio/static/media/death-roll.18f6c6d8.PNG"
+  },
+  {
+    "revision": "f219ed4082881d73d8209fceed12256e",
+    "url": "/react-portfolio/static/media/easy-peasy-recipeasy.f219ed40.PNG"
   },
   {
     "revision": "64d7790df7e10d9ddccfbf1f6fcbe8d1",

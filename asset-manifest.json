@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.5ebc4642.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.5535124f.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.5535124f.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.ce4461f9.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.ce4461f9.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.4785a1c3.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.4785a1c3.js.map",
     "static/js/2.561b7ba5.chunk.js": "/react-portfolio/static/js/2.561b7ba5.chunk.js",
     "static/js/2.561b7ba5.chunk.js.map": "/react-portfolio/static/js/2.561b7ba5.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.1cbc48b997277ac7140f2b0de5352ce3.js": "/react-portfolio/precache-manifest.1cbc48b997277ac7140f2b0de5352ce3.js",
+    "precache-manifest.8dfd7681d8662ed873e2cad9bc77e4cd.js": "/react-portfolio/precache-manifest.8dfd7681d8662ed873e2cad9bc77e4cd.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/main.5ebc4642.chunk.css.map": "/react-portfolio/static/css/main.5ebc4642.chunk.css.map",
     "static/js/2.561b7ba5.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.561b7ba5.chunk.js.LICENSE.txt",
@@ -16,6 +16,7 @@
     "static/media/cover-image.png": "/react-portfolio/static/media/cover-image.e863ae43.png",
     "static/media/daily-scheduler.PNG": "/react-portfolio/static/media/daily-scheduler.ef0a5387.PNG",
     "static/media/death-roll.PNG": "/react-portfolio/static/media/death-roll.18f6c6d8.PNG",
+    "static/media/easy-peasy-recipeasy.PNG": "/react-portfolio/static/media/easy-peasy-recipeasy.f219ed40.PNG",
     "static/media/js-quiz.PNG": "/react-portfolio/static/media/js-quiz.64d7790d.PNG",
     "static/media/password-generator.PNG": "/react-portfolio/static/media/password-generator.e9080974.PNG",
     "static/media/tech-blog.PNG": "/react-portfolio/static/media/tech-blog.82aae439.PNG",
@@ -26,6 +27,6 @@
     "static/js/runtime-main.4785a1c3.js",
     "static/js/2.561b7ba5.chunk.js",
     "static/css/main.5ebc4642.chunk.css",
-    "static/js/main.5535124f.chunk.js"
+    "static/js/main.ce4461f9.chunk.js"
   ]
 }
