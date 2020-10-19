@@ -6,6 +6,12 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
+      name: 'easy-peasy-recipeasy',
+      description: 'Full Stack Project',
+      link: "https://easypeasyrecipeasy.herokuapp.com/",
+      repo: "https://github.com/brandonljackson23/easy-peasy-recipeasy"
+    },
+    {
       name: 'what-2-watch',
       description: 'Full Stack Project',
       link: "https://sleepy-lake-06641.herokuapp.com/",
